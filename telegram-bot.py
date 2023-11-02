@@ -1,7 +1,7 @@
 from random import randint
 import telebot
 
-bot = telebot.TeleBot('6522163761:AAEGPOXHzE5TnM9twc830XldOB6weZ0JRgs')
+bot = telebot.TeleBot('YOUR-TOKEN')
 random_number = randint(0, 100)
 
 @bot.message_handler(commands=['start'])
