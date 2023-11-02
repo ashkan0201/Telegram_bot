@@ -17,6 +17,15 @@ As much as possible, the robot helps the user to find the number, and if the use
 
 My own record is in 4 guesses, how many guesses do you think you can find it???
 😅😜😜😜😜😜😜
+
+## Installation
+
+To use the software, you must install the desired library.
+
+```bash
+    $ pip install -r requirements.txt
+```
+
 ## Ways of communication
 
 **To contact me:**
